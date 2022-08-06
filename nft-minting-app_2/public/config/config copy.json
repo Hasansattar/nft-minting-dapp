@@ -1,0 +1,26 @@
+{
+ // "CONTRACT_ADDRESS": "0x929064151cda8C646cC0C0657ad9CC83ad200156",
+ // "SCAN_LINK": "https://etherscan.io/address/0x929064151cda8C646cC0C0657ad9CC83ad200156",
+ // "NETWORK": {
+ //   "NAME": "Mainnet",
+ //   "SYMBOL": "ETH",
+ //   "ID": 1
+
+  "CONTRACT_ADDRESS": "0x3400E78f0F13c6Fbfc159d12a13039Fe4717bf77",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x3400e78f0f13c6fbfc159d12a13039fe4717bf77",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4 
+
+},
+  "NFT_NAME": "Demon of Money",
+  "SYMBOL": "DOM",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true
+}

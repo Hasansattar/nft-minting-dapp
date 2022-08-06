@@ -1,0 +1,14 @@
+:root {
+  --primary: #000;
+  --primary-text: #fff;
+  --secondary: #555;
+  --secondary-text: #ffffff;
+  --accent: rgba(20, 20, 20, 0.5);
+  --accent-text: #ffffff;
+}
+
+.boxShadow {
+  box-shadow: 1px 3px 15px 2px rgba(255,255,255,0.75);
+-webkit-box-shadow: 1px 3px 15px 2px rgba(255,255,255,0.75);
+-moz-box-shadow: 1px 3px 15px 2px rgba(255,255,255,0.75);
+}
